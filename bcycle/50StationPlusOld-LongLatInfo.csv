@@ -1,0 +1,67 @@
+kiosk_id,kiosk_name,address,latitude,longitude,status
+3291,11th & San Jacinto,310 E. 11th St.,30.27193,-97.73854,active
+2540,17th & Guadalupe,411 W. 17th St.,30.27974,-97.74254,active
+2494,2nd & Congress,151 E. 2nd St,30.26408,-97.74355,active
+2552,3rd & West,652 W. 3rd St,30.2678,-97.75189,active
+2495,4th & Congress,120 W. 4th St.,30.26634,-97.74378,active
+2501,5th & Bowie,Presented by Whole Foods Market,30.2696,-97.75332,active
+2564,5th & San Marcos,991 East 5th,30.26416,-97.73289,active
+3619,6th & Congress,600 Congress Ave.,30.26822,-97.74285,active
+1002,6th & Navasota St.,1308 W. 6th St.,30.26383,-97.72864,closed
+2496,8th & Congress,111 E. 8th St.,30.2698,-97.74186,active
+1003,8th & Guadalupe,800 Guadalupe St.,30.27106,-97.74563,closed
+2545,ACC - Rio Grande & 12th,700 W. 12th St.,30.27595,-97.74739,closed
+2546,ACC - West & 12th Street,1231 West Ave.,30.27624,-97.74831,closed
+2502,Barton Springs & Riverside,400 Barton Springs Rd.,30.2587,-97.74872,active
+2711,Barton Springs @ Kinney Ave,1530 Barton Springs Road,30.262,-97.76118,active
+2572,Barton Springs Pool,2200 William Barton Dr.,30.26452,-97.7712,active
+3390,Brazos & 6th,585 Brazos St.,30.26754,-97.74154,active
+2538,Bullock Museum @ Congress & MLK,1881 Congress Ave.,30.28039,-97.73809,active
+2823,Capital Metro HQ - East 5th at Broadway,2910 E 5th St,30.2563,-97.71007,active
+2497,Capitol Station / Congress & 11th,1090 Congress Ave.,30.2726,-97.74127,active
+2499,City Hall / Lavaca & 2nd,Presented by Graves Dougherty Hearon & Moody,30.26476,-97.74678,active
+2539,Convention Center / 3rd & Trinity,212 Trinity,30.26426,-97.74023,active
+2498,Convention Center / 4th St. @ MetroRail,499 E. 4th St,30.26483,-97.739,active
+2563,Davis at Rainey Street,698 Davis St.,30.26019,-97.73845,active
+2569,East 11th St. & San Marcos,1001 E. 11th St.,30.26968,-97.73074,active
+2568,East 11th St. at Victory Grill,1106 E. 11th St.,30.26896,-97.72843,active
+3293,East 2nd & Pedernales,2414 E 2nd St,30.25542,-97.71665,active
+3292,East 4th & Chicon,1819 East 4th St.,30.25987,-97.72373,active
+2544,East 6th & Pedernales St.,2498 E. 6th St.,30.25895,-97.71475,active
+2822,East 6th at Robert Martinez,2120 East 6th St,30.26032,-97.71899,active
+3381,East 7th & Pleasant Valley,2772 E 7th,30.26025,-97.71002,closed
+2547,Guadalupe & 21st,2100 Guadalupe St.,30.28395,-97.74198,active
+3294,Guadalupe & 6th,619 Guadalupe St.,30.26911,-97.7462,active
+1007,Lavaca & 6th,601 Lavaca St.,30.26889,-97.74525,moved
+2549,Long Center @ South 1st & Riverside,Presented by Austin Energy,30.25941,-97.74971,active
+3377,MoPac Pedestrian Bridge @ Veterans Drive,2105 Veterans Dr.,30.27466,-97.77028,active
+3621,Nueces & 3rd,311 Nueces St.,30.26697,-97.74929,active
+1008,Nueces @ 3rd,311 Nueces,30.26694,-97.74939,moved
+1001,OFFICE/Main/Shop/Repair,1000 Brazos,30.27186,-97.73997,active
+2567,Palmer Auditorium,900 Barton Springs Rd.,30.25971,-97.75346,active
+3464,Pease Park,1155 Kingsbury St,30.28118,-97.75219,active
+2566,Pfluger Bridge @ W 2nd Street,Presented by Austin Parks Foundation,30.26717,-97.75484,active
+2542,Plaza Saltillo,1501 E. 5th St.,30.26217,-97.72743,active
+2576,Rainey @ River St,64 Rainey St,30.25802,-97.7391,closed
+2707,Rainey St @ Cummings,1 Rainey St,30.25579,-97.73982,active
+2571,Red River & 8th Street,761 Red River St.,30.26854,-97.73646,active
+1004,Red River & LBJ Library,2322 Red River Street,30.2848,-97.72756,closed
+2500,Republic Square,425 W 4th Street,30.26751,-97.74802,moved
+3455,Republic Square @ Federal Courthouse Plaza,Federal Courthouse Plaza,30.26753,-97.74805,active
+2550,Republic Square @ Guadalupe & 4th St.,Presented by Austin Ventures,30.26774,-97.74692,moved
+2575,Riverside @ S. Lamar,Presented by Austin Parks Foundation,30.26446,-97.75665,active
+2562,San Jacinto & 8th Street,782 San Jacinto Blvd.,30.26912,-97.73986,active
+2570,South Congress & Academy,1199 S. Congress Ave.,30.25226,-97.74854,active
+3513,South Congress & Barton Springs at the Austin American-Statesman,305 S. Congress Ave.,30.25839,-97.74592,active
+2504,South Congress & Elizabeth,101 Elizabeth St. W,30.24891,-97.75019,active
+2503,South Congress & James,Presented by The Austin Chronicle,30.25103,-97.74926,active
+2541,State Capitol @ 14th & Colorado,206 W. 14th St.,30.27654,-97.74155,active
+2561,State Capitol Visitors Garage @ San Jacinto & 12th,1201 San Jacinto Blvd.,30.27336,-97.73805,active
+1005,State Parking Garage @ Brazos & 18th,1789 Brazos St.,30.27907,-97.73715,closed
+2712,Toomey Rd @ South Lamar,1301 Toomey Road,30.26304,-97.75824,closed
+2565,Trinity & 6th Street,606 Trinity Street,30.26735,-97.73933,active
+2548,UT West Mall @ Guadalupe,2242 Guadalupe St.,30.28576,-97.74181,active
+2536,Waller & 6th St.,602 Waller St.,30.26461,-97.73049,closed
+2537,West & 6th St.,603 West Ave.,30.27041,-97.75046,active
+2574,Zilker Park,Barton Springs Rd,30.2659,-97.76822,active
+1006,Zilker Park West,Barton Springs Rd,30.26587,-97.76826,ACL only

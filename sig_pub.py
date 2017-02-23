@@ -48,6 +48,8 @@ def main(date_time):
         field_list = knack_helpers.GetFields(KNACK_PARAMS)
 
         knack_data = knack_helpers.GetData(KNACK_PARAMS)
+        
+        pdb.set_trace()
 
         knack_data = knack_helpers.ParseData(knack_data, field_list, KNACK_PARAMS, require_locations=True, convert_to_unix=True)
 
